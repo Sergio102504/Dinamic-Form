@@ -8,14 +8,14 @@ export default function Introduction() {
                 <Row className="justify-content-md-center">
                     <Col xs={ 12 } md={ 8 }>
                         <h1 className="pl-2 text-center">
-                            Welcome to my Dynamic Form{ " " }
+                            Bienvenido a mi Dinamic form{ " " }
                             <span className="pt-2 pb-4">
                                 that you will do everything that you want
                             </span>
                         </h1>
                         <h4 className="d-flex container-actions mt-5">
-                            Hi, I'm Sebastián Rodríguez. I'm 25 years old and i like to make programs and
-                            develop it with JS and .NET. I like listening to music.
+                           Hola, Me llamo Sergio Alejandro Quintero ,tengo 22 años y estoy aprendiendo a desarrollar
+                            y a mejorar en el ambito de la programacion.Aqui te presento un Dinamic form
                         </h4>
                         <div className="d-flex container-actions mt-5">
                             <div className="container-buttons">
@@ -28,7 +28,7 @@ export default function Introduction() {
                                 <Button className="p-3">Get in touch</Button>
                             </div>
                             <div className="btn-start-create">
-                                <a href="#dynamic-form">Start to create</a>
+                                <a href="#dynamic-form">Empezar a crear</a>
                             </div>
                         </div>
                     </Col>
